@@ -1,0 +1,6 @@
+@media (max-width: 660px) {
+    .wrapper {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
